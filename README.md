@@ -9,4 +9,4 @@ Behind the slick user interfaces, crisp icons, and shiny buttons, there is alway
 
  Take the telephone number, a data standard that underpins most modern communications technology.  Originally proposed in 1879 by a physician, Dr. Parker, it was an answer to the familiar problem of a virus taking down a network. In this instance, the virus was measles, and the phone network contained human operators, manually connecting customers by name. Assigning numbers to the connection ports allowed new operators to be quickly trained in case the current operators fell ill.
 
-Phone numbers evolved through the years as human operators were replaced by automated switch boards, digital networks replaced analog, and so forth. Early digital networks used analog phone networks and modems that would dial phone numbers to allow a computer to connect to the early internet.
+Phone numbers evolved through the years as human operators were replaced by automated switch boards, digital networks replaced analog, and so forth. Early digital networks used analog phone networks and modems dialing phone numbers to allow computers to connect to the internet.
