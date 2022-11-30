@@ -12,5 +12,14 @@ Consider the telephone number, a data standard that underpins most modern commun
 
 Phone numbers evolved through the years as automated switch boards replaced human operators, digital networks replaced analog, and so forth. Early digital networks used analog phone networks and modems dialing phone numbers to allow computers to connect to the internet.  At every step, manufacturers, developers, integrators, and government officials created local standards that described what constituted a valid phone number, what to do if an invalid phone number is entered, and how to handle interactions with legacy systems.  In 1984, over 100 years after its creation, the telephone number was finally standardized internationally using the standard [E.163/Q.11](https://www.itu.int/rec/T-REC-E.163/en).
 
-## Legacy Space Data Standards
+## Legacy Space Data
 
+    
+
+## Current Data Standards
+
+## SpaceDataStandards.org
+
+## Space Data Server
+
+## The Future
